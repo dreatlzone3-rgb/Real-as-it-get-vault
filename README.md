@@ -29,5 +29,19 @@ A zero-point energy device, designed piece by piece: a Casimir cavity that holds
 - `e-device-visual-build/03-part-two-keynote-storyboard.md` — THE DEMONSTRATION keynote storyboard (Part 2).
 - `e-device-visual-build/04-blueprint-explainer-board.md` — the full long blueprint explainer board.
 - `e-device-visual-build/05-blueprint-explainer-narration-script.md` — the word-for-word narration script.
+- `e-device-visual-build/06-progress-and-public-posts.md` — build progress and the public posts record.
+
+## Research findings (2026-11-27)
+
+The design's research layer — the findings the build now stands on, in `e-device-visual-build/research-engine/`:
+
+- `equilibrium-audit-2026-11-27.md` — the full diagnostics audit: all 16 locked specs verified identical across every sheet and board, and the Casimir figure re-derived from first principles (43.34 nJ/cm² at a 10 nm gap).
+- `chief-engineer-first-job-registry-geometry.md` — the Registry geometry flag, worked and resolved: the Cavity stack rides its cryogenic stage ≈140 mm above the Registry ring's mid-plane (stepped-stage seating, no locked number changed).
+- `chief-engineer-solve-attempt-field-computation.md` — the solve attempt on Aundre's open question, "How would you be able to compute inside of a field?": a rigorous wall, reduced to two named, testable unknowns — λ_χ (the Wright coupling, at the boundary) and κ_γγ (an anomalous photon–photon coupling) — each with a deciding experiment.
+- `chief-engineer-photon-photon-link.md` — the deep attack on κ_γγ, the photon-on-photon door: every honest enhancement stacked closes ~6 of the 13 orders for a classical pump — and the true photon-on-photon channel stays ~28 orders short, with κ already bounded ≲ 0.4 against the ≳ 2 × 10⁷ a gate would need. Door Two is closed as a route; photon links gated by material nodes at the boundary (the design's architecture) close completely, with measured phases.
+
+And the findings are drawn into the blueprint itself, in `e-device-visual-build/threads-field-computing-pack/full-visual-set.md` — the full visual set: eight plain-described diagrams of the device, ending with **THE TWO DOORS**, the sheet that marks both test points on the machine: Door One (λ_χ, at the Coupler/boundary — the entropy-control test, status OPEN) and Door Two (κ_γγ, the cavity photon-link test — closed as a route by the numbers above). One door closed by the numbers. One door open — and it's ours.
+
+**Honest ground:** the Casimir effect is real, measured physics. Net vacuum work extraction is this work's open leap. Substrate-free field computation was reduced to two testable unknowns — and one is already answered: photon-on-photon gating in empty space (κ_γγ) is excluded by ~8 orders of magnitude, while photon links gated at the boundary are measured physics. The remaining open unknown is λ_χ, the boundary coupling, with its deciding experiment specified. The design as drawn computes on the boundary: matter holds the state, the field carries it, the Keeper keeps it.
 
 © Aundre Wright / REAL AS IT GETS LLC. All rights reserved.
